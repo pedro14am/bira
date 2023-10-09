@@ -1,0 +1,8 @@
+:root{
+_cor-de-fundo: orange;
+_cor-cabecalho: #FFFFFF;
+}
+body{
+background-color: var(__cor-de-fundo):
+magrin: 0;
+}
